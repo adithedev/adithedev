@@ -1,21 +1,150 @@
-# 💫 About Me:
-👋 hi, i’m adi<br>okay… so…<br><br>i build things.,,<br>AI things... ML things. random things.<br>some work...<br>some break....<br>some pretend to work and then emotionally betray me later....just like my life...<br><br>not here to look busy...<br>or yapp....okay! thats my way....<br>i like understanding *why* it broke....<br><br>**this is my main thing**<br><br>**sanket**<br>real-time **indian sign language translator**<br>my biggest project...<br>my longest nights...<br>my “this should actually help someone” build...(still working!)<br><br><br>**other stuff i’ve made…**<br><br>**sehat**<br>disease prediction for public health<br>accuracy > vibes....(still working)<br><br>**VAANI**<br>my ai assistant!<br>she is a bitch~<br><br>**bike maintenance predictor**<br>full-stack ml<br>predicts failures before bikes rage-quit....<br><br>**virtual mouse**<br>because the real mouse was too far away....<br>still useless... still fun....<br><br>**facebook 2005 clone**<br>html/css nostalgia.<br>GOOD UI... good memories....thank me mark!~<br><br>plus…<br>ML/DL experiments...<br>Reinforcement learning chaos...<br>UI clones nobody asked for....<br>but they look clean so i kept them.<br><br>**tools i touch…**<br><br>python • tensorflow • opencv • fastapi<br>scikit-learn • xgboost • react • postgres<br>html/css/js<br><br>and sarcasm as a coping mechanism......<br><br>**my loop…**<br><br>when i’m not coding…<br><br>i draw.... basically sketch!<br>i write poems about code... coffee... and overthinking....<br>i make noise with piano... guitar... harmonica....<br>sometimes i pretend i can sing....<br>and sometimes i play... age of empires 2 is my fav game~ <br><br>i don’t chase perfection....<br>i chase understanding....<br><br>stick around…..<br>things might break....<br>something useful might happen...<br>
+<div align="center">
+
+# 🔥 **adi_thedev** 🔥
+
+### *i build things that shouldn't work... but somehow do*
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adi_thedev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aatman_adityasya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-thedev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adi_thedev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasharma.n2023711@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adithedev&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adithedev&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adithedev&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adithedev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+```ascii
+   ___ ____ ____
+  / _ | / __ \/ _/
+ / __ | / /_/ // /
+/_/ |_|/\____/___/
+                   
+[ AI × ML × chaos ]
+```
+
+
+
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adi_thedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-thedev)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adi_thedev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasharma.n2023711@gmail.com)
+
+
+
+
+
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adithedev&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 **FLAGSHIP PROJECT**
+
+<table align="center">
+<tr>
+<td align="center" width="100%">
+
+### 🤟 **SANKET** 🤟
+
+> **real-time indian sign language translator**  
+> *my longest nights. my biggest bet. my "this better help someone" build.*
+
+
+
+
+**[→ view project](https://github.com/adithedev/sanket)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ **ARSENAL**
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Frontend & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
+
+
+---
+
+## 🚀 **OTHER BUILDS**
+
+```python
+projects = {
+    "sehat": "disease prediction → accuracy > vibes",
+    "vaani": "AI assistant → she's a bitch",
+    "bike_predictor": "ML failure detection → bikes don't rage-quit anymore",
+    "virtual_mouse": "hand tracking → useless but fun",
+    "fb_2005": "nostalgia clone → you're welcome, mark"
+}
+side_quests = [
+    "deep learning experiments",
+    "reinforcement learning chaos",
+    "UI clones nobody asked for"
+]
+```
+
+---
+
+## 📊 **BATTLE STATS**
+
+<img src="https://github-readme-stats.vercel.app/api?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=adithedev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+
+---
+
+## 🏆 **ACHIEVEMENTS**
+
+![](https://github-profile-trophy.vercel.app/?username=adithedev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
+
+---
+
+## 🎭 **WHEN NOT CODING**
+
+**sketching** • **poetry about code & coffee** • **piano/guitar/harmonica chaos** • **age of empires 2 dominance**
+
+
+
+
+---
+
+> *i don't chase perfection. i chase understanding.*
+
+![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
+
+⭐ **stick around. things break. useful things happen.** ⭐
+
+
+
+
+</div>
