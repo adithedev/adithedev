@@ -1,42 +1,69 @@
-<svg width="800" height="900" viewBox="0 0 800 900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xhtml">
+<svg width="800" height="900" viewBox="0 0 800 900"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xhtml">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;font-family:monospace;background:#000;color:#ff00ff;padding:20px;">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+      style="
+        text-align:center;
+        font-family:monospace;
+        background:#0d1117;
+        color:#d2a8ff;
+        padding:32px;
+        box-shadow: inset 0 0 80px rgba(0,0,0,0.6);
+      ">
+
       <style>
         @keyframes pulse {
-          from { text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff; color:#ff80ff; filter:brightness(1); }
-          to { text-shadow: 0 0 30px #ff00ff, 0 0 60px #ff00ff, 0 0 90px #ff00ff; color:#fff; filter:brightness(2.2); }
+          from {
+            text-shadow:
+              0 0 6px rgba(210,168,255,0.6),
+              0 0 14px rgba(210,168,255,0.4);
+            filter: brightness(1);
+          }
+          to {
+            text-shadow:
+              0 0 18px rgba(210,168,255,0.9),
+              0 0 36px rgba(210,168,255,0.6),
+              0 0 60px rgba(210,168,255,0.4);
+            filter: brightness(1.4);
+          }
         }
+
         @keyframes flicker {
           0%,100% { opacity:1; }
-          20% { opacity:0.75; }
-          50% { opacity:0.9; }
-          70% { opacity:0.65; }
+          15% { opacity:0.85; }
+          40% { opacity:0.92; }
+          65% { opacity:0.78; }
         }
+
         pre {
-          animation: pulse 2.5s ease-in-out infinite alternate, flicker 0.12s steps(4) infinite;
+          animation:
+            pulse 3s ease-in-out infinite alternate,
+            flicker 0.15s steps(5) infinite;
           white-space: pre;
           line-height: 1;
           font-size: 12px;
         }
       </style>
-      <pre>
 
+<pre>
 
-     █████╗ ██████╗ ██╗
-    ██╔══██╗██╔══██╗██║
-    ███████║██║  ██║██║
-    ██╔══██║██║  ██║██║
-    ██║  ██║██████╔╝██║
-    ╚═╝  ╚═╝╚═════╝ ╚═╝
-          ████████╗██╗  ██╗███████╗     ██████╗ ███████╗██╗   ██╗
-          ╚══██╔══╝██║  ██║██╔════╝     ██╔══██╗██╔════╝██║   ██║
-             ██║   ███████║█████╗       ██║  ██║█████╗  ██║   ██║
-             ██║   ██╔══██║██╔══╝       ██║  ██║██╔══╝  ╚██╗ ██╔╝
-             ██║   ██║  ██║███████╗     ██████╔╝███████╗ ╚████╔╝ 
-             ╚═╝   ╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚══════╝  ╚═══╝  
-                                  
+ █████╗ ██████╗ ██╗
+██╔══██╗██╔══██╗██║
+███████║██║  ██║██║
+██╔══██║██║  ██║██║
+██║  ██║██████╔╝██║
+╚═╝  ╚═╝╚═════╝ ╚═╝
+      ████████╗██╗  ██╗███████╗     ██████╗ ███████╗██╗   ██╗
+      ╚══██╔══╝██║  ██║██╔════╝     ██╔══██╗██╔════╝██║   ██║
+         ██║   ███████║█████╗       ██║  ██║█████╗  ██║   ██║
+         ██║   ██╔══██║██╔══╝       ██║  ██║██╔══╝  ╚██╗ ██╔╝
+         ██║   ██║  ██║███████╗     ██████╔╝███████╗ ╚████╔╝
+         ╚═╝   ╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚══════╝  ╚═══╝
+
 [ AI × ML × chaos ]
-      </pre>
+
+</pre>
     </div>
   </foreignObject>
 </svg>
