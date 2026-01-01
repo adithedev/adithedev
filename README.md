@@ -4,20 +4,7 @@
 <tr>
 <td align="center" width="100%">
 
-<pre style="text-align:center;line-height:1.1;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:16px;letter-spacing:2px;padding:40px 0;margin:0;border:3px double #00ff00;">
 
-   █████╗ ██████╗ ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗   ██╗
-  ██╔══██╗██╔══██╗██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║   ██║
-  ███████║██║  ██║██║       ██║   ███████║█████╗  ██║  ██║█████╗  ██║   ██║
-  ██╔══██║██║  ██║██║       ██║   ██╔══██║██╔══╝  ██║  ██║██╔══╝  ╚██╗ ██╔╝
-  ██║  ██║██████╔╝██║       ██║   ██║  ██║███████╗██████╔╝███████╗ ╚████╔╝ 
-  ╚═╝  ╚═╝╚═════╝ ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═════╝╚══════╝  ╚═══╝  
-
-          * I BUILD THINGS THAT SHOULDN'T WORK... BUT SOMEHOW DO *
-
-          [ SYSTEM ONLINE ]  [ CHAOS LEVEL: MAX ]
-
-</pre>
 
 <!-- Functional social badges below the retro header -->
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adi_thedev)
@@ -71,8 +58,9 @@ Instagram → @sanket.welfare
 </pre>
 
 <!-- If you have logo/team images in repo, add them below -->
-![Sanket Logo](sanket_logo.png)
-![Team Techsicks](techsicks.png)
+<img src="sanket_logo.png" alt="Sanket Logo" width="120">
+<img src="techsicks_logo.png" alt="Team Techsicks" width="120">
+
 
 </td>
 </tr>
@@ -89,26 +77,6 @@ Instagram → @sanket.welfare
           ║            ARSENAL              ║
           ║           TECH STACK            ║
           ╚═════════════════════════════════╝
-
-  LANGUAGES & FRAMEWORKS:
-  > Python     JavaScript     C++
-  > Java       Kotlin
-
-  AI/ML & DATA SCIENCE DIVISION:
-  > TensorFlow   PyTorch     Keras
-  > OpenCV       scikit-learn
-  > NumPy        Pandas
-
-  BACKEND & DATABASES:
-  > FastAPI      Flask
-  > PostgreSQL   MySQL      Kafka
-
-  FRONTEND & TOOLS:
-  > React        HTML5      CSS3
-  > Git          CUDA
-
-          [ STATUS: FULLY ARMED ]
-          [ READY FOR DEPLOYMENT ]
 
 </pre>
 
@@ -151,73 +119,84 @@ Instagram → @sanket.welfare
 <tr>
 <td align="center" width="100%">
 
-<pre style="text-align:center;line-height:1.2;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:15px;letter-spacing:1px;padding:40px 0;margin:20px 0;border:2px solid #00ff00;">
+do something for them -
 
-          ╔═════════════════════════════════╗
-          ║      OTHER BUILDS  -  LOGGED    ║
-          ╚═════════════════════════════════╝
+```markdown
+---
 
-  PROJECT DATABASE:
-  ├─ sehat           → disease prediction (accuracy > vibes)
-  ├─ vaani           → AI assistant (she's a bitch)
-  ├─ bike_predictor  → ML failure detection (bikes don't rage-quit)
-  ├─ virtual_mouse   → hand tracking (useless but fun)
-  └─ fb_2005         → nostalgia clone (you're welcome, mark)
+## 🚀 **OTHER BUILDS**
 
-  SIDE QUESTS ACTIVE:
-  • deep learning experiments
-  • reinforcement learning chaos
-  • UI clones nobody asked for
+```python
+projects = {
+    "sehat": "disease prediction → accuracy > vibes",
+    "vaani": "AI assistant → she's a bitch",
+    "bike_predictor": "ML failure detection → bikes don't rage-quit anymore",
+    "virtual_mouse": "hand tracking → useless but fun",
+    "fb_2005": "nostalgia clone → you're welcome, mark"
+}
+side_quests = [
+    "deep learning experiments",
+    "reinforcement learning chaos",
+    "UI clones nobody asked for"
+]
+```
 
-          [ STATUS: EXPERIMENTAL / CHAOTIC ]
+---
 
-</pre>
-
-<pre style="text-align:center;line-height:1.2;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:15px;letter-spacing:1px;padding:40px 0;margin:20px 0;border:2px solid #00ff00;">
-
-          ╔═════════════════════════════════╗
-          ║        BATTLE STATS  ONLINE     ║
-          ╚═════════════════════════════════╝
-
-</pre>
+## 📊 **BATTLE STATS**
 
 <img src="https://github-readme-stats.vercel.app/api?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="48%" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=adithedev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
 
-<pre style="text-align:center;line-height:1.2;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:15px;letter-spacing:1px;padding:40px 0;margin:20px 0;border:2px solid #00ff00;">
+---
 
-          ╔═════════════════════════════════╗
-          ║       ACHIEVEMENTS UNLOCKED     ║
-          ╚═════════════════════════════════╝
-
-</pre>
+## 🏆 **ACHIEVEMENTS**
 
 ![](https://github-profile-trophy.vercel.app/?username=adithedev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
-<pre style="text-align:center;line-height:1.2;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:15px;letter-spacing:1px;padding:40px 0;margin:20px 0;border:2px solid #00ff00;">
+---
 
-          ╔═════════════════════════════════╗
-          ║        OFFLINE MODE ACTIVE      ║
-          ╚═════════════════════════════════╝
+## 🎭 **WHEN NOT CODING**
 
-  WHEN NOT CODING:
-  • sketching
-  • poetry about code & coffee
-  • piano / guitar / harmonica chaos
-  • age of empires 2 dominance
+**sketching** • **poetry about code & coffee** • **piano/guitar/harmonica chaos** • **age of empires 2 dominance**
 
-          > i don't chase perfection.
-          > i chase understanding.
 
-</pre>
+
+
+---
+
+> *i don't chase perfection. i chase understanding.*
+
+![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
+
+⭐ **stick around. things break. useful things happen.** ⭐
+
+
+
+
+</div>
+````
 
 ![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
 
 <pre style="text-align:center;line-height:1.4;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:16px;letter-spacing:2px;padding:20px 0;margin:20px 0;">
 ⭐    STICK AROUND. THINGS BREAK. USEFUL THINGS HAPPEN.    ⭐
 </pre>
+<pre style="text-align:center;line-height:1.1;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:16px;letter-spacing:2px;padding:40px 0;margin:0;border:3px double #00ff00;">
 
+   █████╗ ██████╗ ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗   ██╗
+  ██╔══██╗██╔══██╗██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║   ██║
+  ███████║██║  ██║██║       ██║   ███████║█████╗  ██║  ██║█████╗  ██║   ██║
+  ██╔══██║██║  ██║██║       ██║   ██╔══██║██╔══╝  ██║  ██║██╔══╝  ╚██╗ ██╔╝
+  ██║  ██║██████╔╝██║       ██║   ██║  ██║███████╗██████╔╝███████╗ ╚████╔╝ 
+  ╚═╝  ╚═╝╚═════╝ ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═════╝╚══════╝  ╚═══╝  
+
+          * I BUILD THINGS THAT SHOULDN'T WORK... BUT SOMEHOW DO *
+
+
+
+</pre>
 </td>
 </tr>
 </table>
