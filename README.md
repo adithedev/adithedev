@@ -29,14 +29,9 @@
 
 ╔══════════════════════════════════════════╗
 ║                                          ║
-║   🤟🤟🤟🤟🤟🤟🤟🤟🤟🤟🤟   ║
-║  🤟                      🤟  ║
-║  🤟      S A N K E T      🤟  ║
-║  🤟                      🤟  ║
-║   🤟🤟🤟🤟🤟🤟🤟🤟🤟🤟🤟   ║
+         S A N K E T        
 ║                                          ║
 ╚══════════════════════════════════════════╝
- 
 
      Real-Time Indian Sign Language Translator
 
@@ -71,15 +66,7 @@ Instagram → @sanket.welfare
 <tr>
 <td align="center" width="100%">
 
-<pre style="text-align:center;line-height:1.2;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:15px;letter-spacing:1px;padding:40px 0;margin:0;border:2px solid #00ff00;">
-
-          ╔═════════════════════════════════╗
-          ║            ARSENAL              ║
-          ║           TECH STACK            ║
-          ╚═════════════════════════════════╝
-
-</pre>
-
+## 🏆 **ARSENAL**
 <!-- Real badges below for functionality & hover effects -->
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -128,22 +115,25 @@ do something for them -
 
 ```python
 projects = {
-    "sehat": "disease prediction → accuracy > vibes",
-    "vaani": "AI assistant → she's a bitch",
-    "bike_predictor": "ML failure detection → bikes don't rage-quit anymore",
-    "virtual_mouse": "hand tracking → useless but fun",
-    "fb_2005": "nostalgia clone → you're welcome, mark"
+    "sehat": "ML-based disease prediction system (classification + feature engineering)",
+    "vaani": "Conversational AI assistant (NLP, intent detection, response generation)",
+    "bike_predictor": "Predictive maintenance using sensor data and ML models",
+    "virtual_mouse": "Real-time hand tracking using OpenCV and gesture mapping",
+    "fb_2005": "Early-Facebook UI clone for frontend practice and nostalgia"
 }
+
 side_quests = [
     "deep learning experiments",
-    "reinforcement learning chaos",
-    "UI clones nobody asked for"
+    "reinforcement learning environments",
+    "UI and system design prototypes",
+    "Exploring Arduino and embedded systems"
 ]
+
 ```
 
 ---
 
-## 📊 **BATTLE STATS**
+## 📊 **STATS**
 
 <img src="https://github-readme-stats.vercel.app/api?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="48%" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=adithedev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" width="48%" />
@@ -152,8 +142,14 @@ side_quests = [
 ---
 
 ## 🏆 **ACHIEVEMENTS**
+### 📜 Certifications
+
+- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
+- **freeCodeCamp** – Machine Learning with Python  
+- **freeCodeCamp** – Data Analysis with Python
 
 ![](https://github-profile-trophy.vercel.app/?username=adithedev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
+
 
 ---
 
@@ -161,28 +157,14 @@ side_quests = [
 
 **sketching** • **poetry about code & coffee** • **piano/guitar/harmonica chaos** • **age of empires 2 dominance**
 
-
-
-
 ---
-
-> *i don't chase perfection. i chase understanding.*
-
 ![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
-
-⭐ **stick around. things break. useful things happen.** ⭐
-
-
-
 
 </div>
 ````
 
 ![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
 
-<pre style="text-align:center;line-height:1.4;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:16px;letter-spacing:2px;padding:20px 0;margin:20px 0;">
-⭐    STICK AROUND. THINGS BREAK. USEFUL THINGS HAPPEN.    ⭐
-</pre>
 <pre style="text-align:center;line-height:1.1;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:16px;letter-spacing:2px;padding:40px 0;margin:0;border:3px double #00ff00;">
 
    █████╗ ██████╗ ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗   ██╗
@@ -193,6 +175,7 @@ side_quests = [
   ╚═╝  ╚═╝╚═════╝ ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═════╝╚══════╝  ╚═══╝  
 
           * I BUILD THINGS THAT SHOULDN'T WORK... BUT SOMEHOW DO *
+        ⭐    STICK AROUND. THINGS BREAK. USEFUL THINGS HAPPEN.    ⭐
 
 
 
