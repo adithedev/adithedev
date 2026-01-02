@@ -11,17 +11,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-thedev)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adi_thedev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasharma.n2023711@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aatman_adityasya)
+
 
 </td>
 </tr>
 </table>
 
-
 ![Glowing ASCII Chaos](glow-ascii.svg)
+<br>
 
-## **FLAGSHIP PROJECT**
+### I’m Aditya Sharma. I go by aatman, adi the dev, and occasionally batman. This is my GitHub. I build stuff here, break it, fix what’s worth fixing, and publish! OFCOURSE : )
+<br>
+
+## 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%A4%98%20%20FLAGSHIP%20PROJECT!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 <table align="center">
@@ -63,21 +68,16 @@ Instagram → @sanket.welfare
 </td>
 </tr>
 </table>
----
+
 
 <table align="center">
 <tr>
 <td align="center" width="100%">
 
-## 🏆 **ARSENAL**
-<!-- Real badges below for functionality & hover effects -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%8F%86%20ARSENAL&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-###
-
-<br clear="both">
 
 <h3 align="center">Languages &Framework</h3>
 
@@ -201,13 +201,12 @@ Instagram → @sanket.welfare
 
 
 
-## 🚀 **OTHER BUILDS**
+## 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%9A%80%20OTHER%20BUILDS&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ```
-```python
 projects = {
     "sehat": "ML-based disease prediction system (classification + feature engineering)",
     "vaani": "Conversational AI assistant (NLP, intent detection, response generation)",
@@ -227,81 +226,66 @@ side_quests = [
 
 ---
 
-## 📊 **STATS**
+## 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%93%8A%20STATS&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="48%" />
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=adithedev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithedev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+
 
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithedev/adithedev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithedev/adithedev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adithedev/adithedev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/adithedev/adithedev/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/adithedev/adithedev/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/adithedev/adithedev/main/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adithedev.adithedev&"  />
-</div>
-
-###
 
 ---
 
-## 🏆 **ACHIEVEMENTS**
+##
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-### 📜 Certifications
 
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
-- **freeCodeCamp** – Machine Learning with Python  
-- **freeCodeCamp** – Data Analysis with Python
+## 📜 Certifications
+
+**Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
+**freeCodeCamp** – Machine Learning with Python  
+**freeCodeCamp** – Data Analysis with Python
 
 ![](https://github-profile-trophy.vercel.app/?username=adithedev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 
 ---
 
-## 🎭 **WHEN NOT CODING**
+##
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%8E%AD%20WHEN%20NOT%20CODING&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
 **sketching** • **poetry about code & coffee** • **piano/guitar/harmonica chaos** • **age of empires 2 dominance**
+check out my art! : ) - 
 
 ---
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chitrakala_by_aatman/)
+
+
 ![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
 
 </div>
-````
 
 ![](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=58a6ff)
+
+
 
 <pre style="text-align:center;line-height:1.1;font-family:'Courier New',Courier,monospace;background:#000;color:#00ff00;text-shadow:0 0 8px #00ff00;font-size:16px;letter-spacing:2px;padding:40px 0;margin:0;border:3px double #00ff00;">
 
@@ -314,8 +298,6 @@ side_quests = [
 
           * I BUILD THINGS THAT SHOULDN'T WORK... BUT SOMEHOW DO *
         ⭐    STICK AROUND. THINGS BREAK. USEFUL THINGS HAPPEN.    ⭐
-
-
 
 </pre>
 </td>
