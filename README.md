@@ -1,32 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=000000&text=ADITYA%20SHARMA&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20EXPERIMENT%20%E2%80%A2%20REPEAT&descSize=13&descAlignY=68" width="100%" alt="Aditya Sharma GitHub profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=190&section=header&text=ADITYA%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20%7C%20INTELLIGENT%20SYSTEMS%20%7C%20BUILDING%20THINGS&descSize=13&descAlignY=58" width="100%" alt="Aditya Sharma GitHub banner"/>
 
-### AI / ML • Intelligent Systems • Building Things
+![Glowing ASCII Chaos](glow-ascii.svg)
 
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adi_thedev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-thedev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adi_thedev)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasharma.n2023711@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aatman_adityasya)
+### `learn()` · `build()` · `experiment()` · `repeat()`
+
+**In a world full of patterns, I choose to be an outlier.**
+
+[![Discord](https://img.shields.io/badge/Discord-181818?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adi_thedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-thedev)
+[![X](https://img.shields.io/badge/X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adi_thedev)
+[![Email](https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasharma.n2023711@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aatman_adityasya)
 
 </div>
 
 ---
 
-## `// 00` — ABOUT
+## `01` / About
 
-![Glowing ASCII Chaos](glow-ascii.svg)
+<img align="right" alt="Coding animation" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I’m **Aditya Sharma**. I go by **aatman**, **adi the dev**, and occasionally **batman**.
+I’m **Aditya Sharma**. I go by **aatman**, **adi the dev**, and occasionally **Batman**.
 
-This is my GitHub. I build stuff here, break it, fix what’s worth fixing, and publish! OFCOURSE : )
+This is my GitHub. I build stuff here, break it, fix what’s worth fixing, and publish. Of course. :)
+
+I’m interested in AI/ML, intelligent systems, and turning ideas into things people can actually use.
+
+<br clear="right"/>
 
 ---
+
+## `02` / Contribution Snake
+
 <div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=adithedev&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" width="48%" alt="GitHub streak stats"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithedev/adithedev/main/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithedev/adithedev/main/output/pacman-contribution-graph.svg">
@@ -35,122 +43,74 @@ This is my GitHub. I build stuff here, break it, fix what’s worth fixing, and 
 
 </div>
 
-## `// 01` — FLAGSHIP PROJECT
+---
+
+## `03` / Flagship Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=000000&text=SANKET&fontColor=FFFFFF&fontSize=28&fontAlignY=55" width="100%" alt="Sanket project banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=181818&text=SANKET&fontColor=ffffff&fontSize=28&fontAlignY=56" width="100%" alt="Sanket project header"/>
 
 ### Real-Time Indian Sign Language Translator
 
-**A passion-driven social impact project by Team Techsicks**
+**A passion-driven social-impact project by Team Techsicks**
 
 </div>
 
 Bridging the communication gap for the deaf and hard-of-hearing community in India.
 
-Empowering millions through inclusive technology. Building a world where language is no barrier — converting speech to Indian Sign Language (ISL) in real-time with cutting-edge AI.
+Sanket aims to use AI to support real-time Indian Sign Language (ISL) translation and help build a world where language is no barrier.
 
-> **Status:** Currently in active development  
-> Major updates dropping soon – stay tuned!
-
-**Follow the journey:** [Instagram → @sanket.welfare](https://instagram.com/sanket.welfare)
+- **Focus:** AI, computer vision, and sign-language recognition
+- **Mission:** More inclusive communication technology
+- **Status:** In active development
+- **Follow the journey:** [@sanket.welfare on Instagram](https://instagram.com/sanket.welfare)
 
 <div align="center">
-<img src="sanket_logo.png" alt="Sanket Logo" width="120">
+<img src="sanket_logo.png" alt="Sanket logo" width="112"/>
 &nbsp;&nbsp;&nbsp;
-<img src="techsicks_logo.png" alt="Team Techsicks" width="120">
+<img src="techsicks_logo.png" alt="Team Techsicks logo" width="112"/>
 </div>
 
 ---
 
-## `// 02` — ARSENAL
+## `04` / Arsenal
 
 ### Languages & Frameworks
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c&theme=dark" alt="Python, Java, JavaScript, C++, C"/>
 </div>
 
 ### AI/ML & Data Science
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,anaconda,jupyter&theme=dark" alt="TensorFlow, OpenCV, NumPy, Anaconda, Jupyter"/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas"/>
 </div>
 
 ### Backend & Database
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,kafka,nodejs,mongodb&theme=dark" alt="FastAPI, Flask, PostgreSQL, MySQL, Kafka, Node.js, MongoDB"/>
 </div>
 
 ### Frontend & Tools
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,git,github,androidstudio,flutter&theme=dark" alt="HTML, CSS, Bootstrap, React, Git, GitHub, Android Studio, Flutter"/>
 </div>
 
 ### MLOps
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="Amazon Web Services"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=linux,oracle,aws,kubernetes,docker&theme=dark" alt="Linux, Oracle, AWS, Kubernetes, Docker"/>
 </div>
 
 ---
 
-## `// 03` — OTHER BUILDS
+## `05` / Other Builds
 
 ```python
 projects = {
@@ -158,49 +118,57 @@ projects = {
     "vaani": "Conversational AI assistant (NLP, intent detection, response generation)",
     "bike_predictor": "Predictive maintenance using sensor data and ML models",
     "virtual_mouse": "Real-time hand tracking using OpenCV and gesture mapping",
-    "fb_2005": "Early-Facebook UI clone for frontend practice and nostalgia"
+    "fb_2005": "Early-Facebook UI clone for frontend practice and nostalgia",
 }
 
 side_quests = [
     "deep learning experiments",
     "reinforcement learning environments",
     "UI and system design prototypes",
-    "Exploring Arduino and embedded systems"
+    "Exploring Arduino and embedded systems",
 ]
 ```
 
 ---
 
----
-
-## `// 04` — ACHIEVEMENTS
-
-### Certifications
-
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
-- **freeCodeCamp** – Machine Learning with Python
-- **freeCodeCamp** – Data Analysis with Python
+## `06` / GitHub Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adithedev&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="GitHub profile trophies"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adithedev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8b949e&text_color=c9d1d9&icon_color=ffffff" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adithedev&hide_border=true&theme=transparent&ring=8b949e&fire=ffffff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak"/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithedev&layout=compact&hide_border=true&theme=transparent&title_color=8b949e&text_color=c9d1d9" alt="Most used languages"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithedev&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
+
 </div>
 
 ---
 
-## `// 05` — WHEN NOT CODING
+## `07` / Achievements
 
-**sketching** • **poetry about code & coffee** • **piano/guitar/harmonica chaos** • **age of empires 2 dominance**
+- **Oracle Cloud Infrastructure 2025** — AI Foundations Associate
+- **freeCodeCamp** — Machine Learning with Python
+- **freeCodeCamp** — Data Analysis with Python
 
-Check out my art! : )
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chitrakala_by_aatman/)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adithedev&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="GitHub profile trophies"/>
+</div>
 
 ---
 
+## `08` / When Not Coding
+
+**Sketching** · **Poetry about code & coffee** · **Piano / guitar / harmonica chaos** · **Age of Empires II dominance**
+
+Check out my art: [@chitrakala_by_aatman](https://instagram.com/chitrakala_by_aatman/)
+
 <div align="center">
 
-![Profile views](https://visitcount.itsvg.in/api?id=adithedev&icon=6&color=000000)
+[![Art Instagram](https://img.shields.io/badge/ART%20%2F%20INSTAGRAM-181818?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chitrakala_by_aatman/)
 
+![Profile views](https://komarev.com/ghpvc/?username=adithedev&style=flat-square&color=30363d&label=PROFILE+VIEWS)
 ```text
     █████╗ ██████╗ ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗   ██╗
    ██╔══██╗██╔══██╗██║    ╚═██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║   ██║
@@ -212,5 +180,8 @@ Check out my art! : )
         * I BUILD THINGS THAT SHOULDN'T WORK... BUT SOMEHOW DO *
       STICK AROUND. THINGS BREAK. USEFUL THINGS HAPPEN.
 ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:111111&height=120&section=footer&text=I%20BUILD%20THINGS%20THAT%20SHOULDN'T%20WORK&fontSize=17&fontColor=ffffff&fontAlignY=40&desc=...BUT%20SOMEHOW%20DO.&descSize=12&descAlignY=62" width="100%" alt="Closing banner"/>
+
+
 
 </div>
